@@ -1,6 +1,7 @@
 {
   "name": "fifteen_game",
   "version": "0.1.0",
+  "homepage": "https://debi7.github.io/Fifteen-Game/",
   "private": true,
   "browserslist": {
     "production": [
@@ -15,7 +16,6 @@
     ]
   },
   "scripts": {
-    "homepage": "https://debi7.github.io/Fifteen-Game/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
