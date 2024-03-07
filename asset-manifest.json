@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Fifteen-Game/static/css/main.ab0baf28.css",
+    "main.css": "/Fifteen-Game/static/css/main.3f69be94.css",
     "main.js": "/Fifteen-Game/static/js/main.07d665bf.js",
     "static/js/787.9fab6e5d.chunk.js": "/Fifteen-Game/static/js/787.9fab6e5d.chunk.js",
     "static/media/fire.gif": "/Fifteen-Game/static/media/fire.c15150d6118fe1650fb0.gif",
     "index.html": "/Fifteen-Game/index.html",
-    "main.ab0baf28.css.map": "/Fifteen-Game/static/css/main.ab0baf28.css.map",
+    "main.3f69be94.css.map": "/Fifteen-Game/static/css/main.3f69be94.css.map",
     "main.07d665bf.js.map": "/Fifteen-Game/static/js/main.07d665bf.js.map",
     "787.9fab6e5d.chunk.js.map": "/Fifteen-Game/static/js/787.9fab6e5d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab0baf28.css",
+    "static/css/main.3f69be94.css",
     "static/js/main.07d665bf.js"
   ]
 }
